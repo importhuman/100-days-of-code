@@ -32,3 +32,8 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 -->
+
+Day 1: September 12, 2020
+
+Started to build my version of Conway's Game of Life. The thought process is to first create a 100 * 100 grid. Used matplotlib for the first time today. Wasn't able to do it or other related things like make ticks and labels invisible. Frustrating, but it's only the first day, hopefully it'll get better from here.
+Also did some basic CSS from FreeCodeCamp, was my first experience with CSS. Felt better having done something concrete after the frustration earlier in the day.
