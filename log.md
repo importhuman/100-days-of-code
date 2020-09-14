@@ -41,3 +41,7 @@ Also did some basic CSS from FreeCodeCamp, was my first experience with CSS. Fel
 Day 2: September 13, 2020
 
 Made good progress today. Used numpy for the first time. Used it for data entry, and plotted it through matplotlib. Felt great after yesterday's disappointing start to the challenge.
+
+Day 3: September 14, 2020
+
+Tried animating the plot. No luck. Seems that my code progresses on alternate days. Hope tomorrow will be good again.
