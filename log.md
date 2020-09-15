@@ -45,3 +45,7 @@ Made good progress today. Used numpy for the first time. Used it for data entry,
 Day 3: September 14, 2020
 
 Tried animating the plot. No luck. Seems that my code progresses on alternate days. Hope tomorrow will be good again.
+
+Day 4: September 15, 2020
+
+Started the day trying to animate the plot. Not only did I fail to do that, I realised that the one part of my code that was correct was wrong as well. Turned out that fixing that very segment of code allowed me to animate the plot, alongwith the piece of code I thought was responsible for screwing up the animation. Despair at failing on successive days was turned into sheer joy when I saw the output I wanted. Hope tomorrow is also productive and not a bad day like the other odd days of the challenge.
