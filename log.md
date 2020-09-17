@@ -1,38 +1,3 @@
-<!--
-
-# 100 Days Of Code - Log
-
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
--->
-
 Day 1: September 12, 2020
 
 Started to build my version of Conway's Game of Life. The thought process is to first create a 100 * 100 grid. Used matplotlib for the first time today. Wasn't able to do it or other related things like make ticks and labels invisible. Frustrating, but it's only the first day, hopefully it'll get better from here.
@@ -47,9 +12,13 @@ Day 3: September 14, 2020
 Tried animating the plot. No luck. Seems that my code progresses on alternate days. Hope tomorrow will be good again.
 
 Day 4: September 15, 2020
-ti
+
 Started the day trying to animate the plot. Not only did I fail to do that, I realised that the one part of my code that was correct was wrong as well. Turned out that fixing that very segment of code allowed me to animate the plot, alongwith the piece of code I thought was responsible for screwing up the animation. Despair at failing on successive days was turned into sheer joy when I saw the output I wanted. Hope tomorrow is also productive and not a bad day like the other odd days of the challenge.
 
 Day 5: September 16, 2020
 
-Added a piece of code for edges and corners, then removed it later thinking that it was redundant. Fixed animation slowdown in later frames. Started writing first DEV post.
+Increased the size of the plot to 51 * 51. Added a piece of code for edges and corners, then removed it later as it was redundant. Fixed animation slowdown in later frames. Started writing first DEV post.
+
+Day 6: September 17, 2020
+
+The block I thought was redundant was not redundant after all. Went back to older commit, had some problems merging it back, but eventually managed. Still not ideal behaviour around the edges, but cells can reach there now.
