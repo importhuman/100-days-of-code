@@ -22,3 +22,7 @@ Increased the size of the plot to 51 * 51. Added a piece of code for edges and c
 Day 6: September 17, 2020
 
 The block I thought was redundant was not redundant after all. Went back to older commit, had some problems merging it back, but eventually managed. Still not ideal behaviour around the edges, but cells can reach there now.
+
+Day 7: September 18, 2020
+
+Added 2 new files.  `in_state.py` takes in input in a user friendly manner, `grid.py` creates a grid using the input, and `game.py` animates the plot. Input can be given in a much simpler manner now instead of writing `grid[x,y]=1` each time. Very happy with the day's work.
