@@ -26,3 +26,7 @@ The block I thought was redundant was not redundant after all. Went back to olde
 Day 7: September 18, 2020
 
 Added 2 new files.  `in_state.py` takes in input in a user friendly manner, `grid.py` creates a grid using the input, and `game.py` animates the plot. Input can be given in a much simpler manner now instead of writing `grid[x,y]=1` each time. Very happy with the day's work.
+
+Day 8: September 19, 2020
+
+Pausing the project for a while to focus on Hacktoberfest. Completed the basic CSS course from FreeCodeCamp.
