@@ -30,3 +30,11 @@ Added 2 new files.  `in_state.py` takes in input in a user friendly manner, `gri
 Day 8: September 19, 2020
 
 Pausing the project for a while to focus on Hacktoberfest. Completed the basic CSS course from FreeCodeCamp.
+
+Day 9: September 20, 2020
+
+Not much, searched for projects for Hacktober.
+
+Day 10: September 21, 2020
+
+Ciphey looks interesting. Expressed interest in an issue.
