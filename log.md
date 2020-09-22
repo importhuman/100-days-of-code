@@ -38,3 +38,7 @@ Not much, searched for projects for Hacktober.
 Day 10: September 21, 2020
 
 Ciphey looks interesting. Expressed interest in an issue.
+
+Day 11: September 22, 2020
+
+The issue I was interested in also requires C++, so I'll have to look for another one. Started learning applied visual design via FreeCodeCamp.
