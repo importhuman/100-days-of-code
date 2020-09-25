@@ -42,3 +42,15 @@ Ciphey looks interesting. Expressed interest in an issue.
 Day 11: September 22, 2020
 
 The issue I was interested in also requires C++, so I'll have to look for another one. Started learning applied visual design via FreeCodeCamp.
+
+Day 12: September 23, 2020
+
+Did some more applied visual design. Realised that I'm learning quite a lot of things that I'm unlikely to use by myself very soon, which will lead to a lot of forgetting so I'll try to make some notes about what I've learned so far.
+
+Day 13: September 24, 2020
+
+Made notes about the new HTML stuff I learned recently. Took longer than expected, but happy I did it. Also registered for hacktoberfest.
+
+Day 14: September 25, 2020
+
+Started contributing to open source. It's a resume building application. Had signed up for a different issue, but ended up doing some documentation work instead. Couldn't get the application to run today, hopefully tomorrow will be better.
