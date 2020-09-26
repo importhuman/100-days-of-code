@@ -54,3 +54,7 @@ Made notes about the new HTML stuff I learned recently. Took longer than expecte
 Day 14: September 25, 2020
 
 Started contributing to open source. It's a resume building application. Had signed up for a different issue, but ended up doing some documentation work instead. Couldn't get the application to run today, hopefully tomorrow will be better.
+
+Day 15: September 26, 2020
+
+A bunch of stuff today, but not too productive overall. Learnt a bit about frameworks, decorators, and  Flask. Need to work on my ability to read documentation, get tired way too easily.
