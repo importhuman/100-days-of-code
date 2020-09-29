@@ -58,3 +58,13 @@ Started contributing to open source. It's a resume building application. Had sig
 Day 15: September 26, 2020
 
 A bunch of stuff today, but not too productive overall. Learnt a bit about frameworks, decorators, and  Flask. Need to work on my ability to read documentation, get tired way too easily.
+
+Day 16: September 27, 2020
+
+Read through the code for my GitHub issue, tried a solution, didn't work. Frustrating day overall.
+
+*Took a break on September 28, 2020*
+
+Day 17: September 29, 2020
+
+Found the solution to my issue thanks to StackOverflow. Made some CSS notes. Really boring work. Do it simultaneously while learning from now on.
