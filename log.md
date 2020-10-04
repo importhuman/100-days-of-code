@@ -68,3 +68,23 @@ Read through the code for my GitHub issue, tried a solution, didn't work. Frustr
 Day 17: September 29, 2020
 
 Found the solution to my issue thanks to StackOverflow. Made some CSS notes. Really boring work. Do it simultaneously while learning from now on.
+
+Day 18: September 30, 2020
+
+Tried looking for Hacktoberfest issues, no luck.
+
+Day 19: October 1, 2020
+
+Nice day overall, quite a lot of stuff today. Made a PR, then found a Pokémon based repo which is very interesting to me and I've already made a PR, will work further on it. Also learnt a bit about tig and venv. 
+
+Day 20: October 2, 2020
+
+Some more work on the Pokémon project. Work seems easier when it's for a project you're interested in.
+
+Day 21: October 3, 2020
+
+Continued work on the same project. So far, I've basically only done data entry (without a database, that is), will read and try to understand the codebase over the next few days so I can contribute better. 
+
+Day 22: October 4, 2020
+
+Started going through the project code. Learnt a bit about the random module, floor function, args, kwargs. Also found out this repository doesn't count towards Hacktoberfest. Have requested the owner to add the topic, let's see where it goes.
