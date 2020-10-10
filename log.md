@@ -88,3 +88,27 @@ Continued work on the same project. So far, I've basically only done data entry 
 Day 22: October 4, 2020
 
 Started going through the project code. Learnt a bit about the random module, floor function, args, kwargs. Also found out this repository doesn't count towards Hacktoberfest. Have requested the owner to add the topic, let's see where it goes.
+
+Day 23: October 5, 2020
+
+Some more reading code and experimenting with things to see what happens.
+
+Day 24: October 6, 2020
+
+Some more reading code and experimenting with things to see what happens.
+
+Day 25: October 7, 2020
+
+Went through over 300 lines of code today, easily my best. Project starting to make sense as to how it works, though some doubts remain. 
+
+Day 26: October 8, 2020
+
+Didn't go through as much code as yesterday, but still learned quite a few things such as clearing screen for different OSs, the concept of pickling, and got a refresher on things I'd forgotten like handling files. 
+
+Day 27: October 9, 2020
+
+Another day of going through code. Thinking of taking a break from this project and resuming/starting my own so I get back to writing code.
+
+Day 28: October 10, 2020
+
+Started learning some Flask. For now, the plan is to try out some different things and see if anything piques my interest, will go on from there.
