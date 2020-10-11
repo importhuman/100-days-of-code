@@ -112,3 +112,7 @@ Another day of going through code. Thinking of taking a break from this project 
 Day 28: October 10, 2020
 
 Started learning some Flask. For now, the plan is to try out some different things and see if anything piques my interest, will go on from there.
+
+Day 29: October 11, 2020
+
+Some more Flask from tutorial.
