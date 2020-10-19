@@ -116,3 +116,33 @@ Started learning some Flask. For now, the plan is to try out some different thin
 Day 29: October 11, 2020
 
 Some more Flask from tutorial.
+
+Day 30: October 12, 2020
+
+Another day of learning Flask from a tutorial. Getting slow and disinterested now.
+
+Day 31: October 13, 2020
+
+Signed up for Twitter developer, tried to read some documentation. Not much work today.
+
+*Took a break on October 14, 2020*
+
+Day 32: October 15, 2020
+
+No progress wrt coding, but cleared up some misconceptions about how to use the Twitter API (and APIs in general) and how I should begin my project. Hopefully will have some code up and running by tomorrow. 
+
+Day 33: October 16, 2020
+
+Started my Twitter project using Tweepy. Ran into a weird error (of course, turned out to be simple and my fault). Think I've managed the authentication part, will see Tweepy documentation for further coding.
+
+Day 34: October 17, 2020
+
+Good progress today. Can pull out links from liked tweets. End goal is to add links from liked tweets to Pocket. Hoping it can be accomplished with just Python.
+
+Day 35: October 18, 2020
+
+Made some improvements to my Twitter application code, which is intended to add links from liked tweets to Pocket. Think I've done the Twitter part. Hope the Pocket part will get done tomorrow.
+
+Day 36: October 19, 2020
+
+Worked with Pocket API. Wasn't working, so generated same access token with another method, changed permissions and regenerated tokens, still didn't work, and then it was pointed out I had used variables inside quotes. Heavy sigh. Oh well, atleast the script works now. Will try automating it from tomorrow. 
