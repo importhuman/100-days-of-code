@@ -146,3 +146,5 @@ Made some improvements to my Twitter application code, which is intended to add 
 Day 36: October 19, 2020
 
 Worked with Pocket API. Wasn't working, so generated same access token with another method, changed permissions and regenerated tokens, still didn't work, and then it was pointed out I had used variables inside quotes. Heavy sigh. Oh well, atleast the script works now. Will try automating it from tomorrow. 
+
+**Continued on Twitter from hereon**
